@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2Y2Ezcm5ncHBwdHV1ODhrZjB0NXZlMjEwbGltYXlleXhhcWxpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd2Y2Ezcm5ncHBwdHV1ODhrZjB0NXZlMjEwbGltYXlleXhhcWxpMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
@@ -32,8 +32,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=VentyolaNapitupulu&locale=en&mode=weekly&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
+### 🛠️ Skills 🛠️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+### 📱 You Can Find Me Here 📱
 
 <div align="left">
   <a href="https://www.instagram.com/ventyola_napitupulu?igsh=MXVlbzZhbDh4czlkdQ==" target="_blank">
